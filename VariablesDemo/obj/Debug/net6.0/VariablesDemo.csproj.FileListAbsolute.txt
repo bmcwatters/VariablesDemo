@@ -1,0 +1,15 @@
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\obj\Debug\net6.0\VariablesDemo.csproj.AssemblyReference.cache
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\obj\Debug\net6.0\VariablesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\obj\Debug\net6.0\VariablesDemo.AssemblyInfoInputs.cache
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\obj\Debug\net6.0\VariablesDemo.AssemblyInfo.cs
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\obj\Debug\net6.0\VariablesDemo.csproj.CoreCompileInputs.cache
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\bin\Debug\net6.0\VariablesDemo.exe
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\bin\Debug\net6.0\VariablesDemo.deps.json
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\bin\Debug\net6.0\VariablesDemo.runtimeconfig.json
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\bin\Debug\net6.0\VariablesDemo.dll
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\bin\Debug\net6.0\ref\VariablesDemo.dll
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\bin\Debug\net6.0\VariablesDemo.pdb
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\obj\Debug\net6.0\VariablesDemo.dll
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\obj\Debug\net6.0\ref\VariablesDemo.dll
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\obj\Debug\net6.0\VariablesDemo.pdb
+C:\Users\bmcwa\source\repos\VariablesDemo\VariablesDemo\obj\Debug\net6.0\VariablesDemo.genruntimeconfig.cache
